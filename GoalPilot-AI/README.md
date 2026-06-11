@@ -190,7 +190,7 @@ Most productivity apps stop at note-taking or to-do lists. GoalPilot AI goes fur
 
 **Aryan Saini**
 
-* GitHub: https://github.com/aryansaini101007-rgb
+* GitHub: https://github.com/aryansaini101007-rgb/GoalPilot-AI
 * Project: GoalPilot AI
 
 ---
