@@ -6,7 +6,7 @@
 
 Turn your ambitions into structured, actionable roadmaps with the power of AI.
 
-🌐 **Live Demo:** https://goal-pilot-ai-ruby.vercel.app
+🌐 **Live Demo:** https://goal-pilot-ai-ruby.vercel.app <br>
 💻 **Built with:** Next.js • TypeScript • Tailwind CSS • Supabase • Groq AI • Vercel
 
 </div>
